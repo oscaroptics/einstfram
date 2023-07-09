@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container-left{
+  /* height: 90vh; */
+  padding-top: 250px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.container-right{
+    height: 90px;
+    background-color: beige;
+    margin:500px;
+}
+
+.welcome{
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+}
+
+.welcome-para{
+  padding-bottom: 30px;
+}
+
+.email{
+  padding-bottom: 10px;
+}
+
+.password{
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.forget-password{
+  margin: 20px 0px;
+  font-size: 10px;
+  padding-left: 120px;
+}
+
+.image{
+  width: 100px;
+  height: 100px;
+}
